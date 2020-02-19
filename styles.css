@@ -2,20 +2,16 @@ body {
     background-color: lightblue;
     color: black;
 }
-<<<<<<< HEAD
-<<<<<<< HEAD
 
 .rounded {
     width: 50%;
 }
-=======
+
 .jumbotron {
     background-color: lightblue;
     font-style: italic;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
->>>>>>> origin/Cheris-branch
-=======
 
 main{
     background-color:lightblue;
@@ -40,4 +36,3 @@ form{
     font-family:Arial, sans-serif;
     /*background-color:lightgrey;*/
 }
->>>>>>> origin/DeannaBranch
