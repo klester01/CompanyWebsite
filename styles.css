@@ -1,4 +1,8 @@
-html {
+body {
     background-color: lightblue;
     color: black;
+}
+
+.rounded {
+    width: 50%;
 }
